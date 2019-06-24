@@ -11,3 +11,4 @@ test
 test merge2
 stage
 add
+test merge  master 1
