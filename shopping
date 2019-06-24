@@ -17,3 +17,4 @@ test merge  master 2
 =======
 test merge feature_test_push 2
 >>>>>>> feature_test_push
+test merge vs rebase ->merge
