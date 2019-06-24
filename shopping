@@ -1,3 +1,4 @@
+<<<<<<
 <<<<<<< HEAD
 Maltron
 移动硬盘-merge master
@@ -8,6 +9,15 @@ Maltron - push 1
 投影仪
 再买几个比特币(不买了)
 老婆的手表-- rebase master
+=======
+Maltron - push 1
+移动硬盘
+Maltron
+移动硬盘-merge master
+投影仪
+再买几个比特币(不买了 -- push rebase 1)
+老婆的手表
+>>>>>>> push rebase 1
 老婆的料理机
 老婆的新厨房
 老婆的脸部按摩仪
